@@ -1,0 +1,8 @@
+com\zhang\domain\Permission.class
+com\zhang\domain\Orders.class
+com\zhang\domain\UserInfo.class
+com\zhang\domain\Product.class
+com\zhang\domain\Member.class
+com\zhang\domain\SysLog.class
+com\zhang\domain\Role.class
+com\zhang\domain\Traveller.class

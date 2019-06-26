@@ -1,0 +1,12 @@
+com\zhang\sevice\impl\IProductServiceImpl.class
+com\zhang\sevice\impl\ISysLogServiceImpl.class
+com\zhang\sevice\impl\IUserServiceImpl.class
+com\zhang\sevice\IPermissionService.class
+com\zhang\sevice\IProductService.class
+com\zhang\sevice\IOrdersService.class
+com\zhang\sevice\impl\RoleServiceImpl.class
+com\zhang\sevice\IUserService.class
+com\zhang\sevice\impl\IOrdersServiceImpl.class
+com\zhang\sevice\impl\PermissionServiceImpl.class
+com\zhang\sevice\IRoleService.class
+com\zhang\sevice\ISysLogService.class

@@ -1,0 +1,7 @@
+com\zhang\controller\RoleController.class
+com\zhang\controller\ProductController.class
+com\zhang\controller\UserController.class
+com\zhang\controller\LogAop.class
+com\zhang\controller\OrdersController.class
+com\zhang\controller\PermissionController.class
+com\zhang\controller\SysLogController.class
